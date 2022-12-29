@@ -1,6 +1,6 @@
 
 
-![Untitled](https://user-images.githubusercontent.com/42119724/174150289-3e75716e-9c99-45a2-a9ad-5ac9a10605d6.jpeg)
+![Sümeyye Akkaş](https://user-images.githubusercontent.com/42119724/209955677-de1ddc0f-d9b3-41ce-9bea-7977a1fe0a54.png)
 
 
  Hi, there 👋 
@@ -20,6 +20,15 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwind" alt="tailwind" width"40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="tailwind" alt="tailwind" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width"40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="mssql" alt="mssql" width"40" height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width"40" height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width"40" height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width"40" height="40" />
+   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width"40" height="40" />
+
 </div>
 
 <!---

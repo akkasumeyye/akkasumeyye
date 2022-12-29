@@ -5,7 +5,7 @@
 
  Hi, there 👋 
 
-- 🌱 I’m currently learning backend frameworks
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source projects
 
 Languages and Tools :

@@ -12,6 +12,7 @@ Hi, I'm Sümeyye, an Full Stack AI Developer and Machine Learning Specialist. I'
 ## 🤖 Expertise
 
 *   **Full Stack Development:** Building robust web applications and backends with a focus on seamless user experiences.
+*   **DevOps Solutions:** Build CI/CD pipelines and deploy to AWS, GCP, and DigitalOcean. Monitor systems with Prometheus & Grafana. Configure Nginx for routing and load balancing.
 *   **Machine Learning:** Crafting solutions using advanced ML techniques for predictive modeling, deep learning, and more.
 *   **Web Scraping and Automation:** Unleashing the power of web scraping, crawling, and data extraction to transform unstructured content into valuable insights.
 
@@ -23,7 +24,8 @@ Hi, I'm Sümeyye, an Full Stack AI Developer and Machine Learning Specialist. I'
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">&nbsp;
@@ -36,7 +38,18 @@ Hi, I'm Sümeyye, an Full Stack AI Developer and Machine Learning Specialist. I'
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">&nbsp;
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">
+  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg">&nbsp;
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg">&nbsp;  
+  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg">&nbsp;  
 </p>
 
 ## ⚙️ GitHub Analytics

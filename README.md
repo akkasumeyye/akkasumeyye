@@ -24,7 +24,6 @@ Hi, I'm Sümeyye, an Full Stack AI Developer and Machine Learning Specialist. I'
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;
-  <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">&nbsp;
   <img width="40px" height="40px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">&nbsp;
   <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">&nbsp;
@@ -56,7 +55,6 @@ Hi, I'm Sümeyye, an Full Stack AI Developer and Machine Learning Specialist. I'
 
 <p align="center">
   <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=akkasumeyye&show_icons=true&theme=algolia&include_all_commits=true&card_width=500"/>
-  <img width="400px" height="160px"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akkasumeyye&langs_count=6&theme=algolia&hide_progress=true&card_width=500"/>
 </p>
 
 ## 🤝🏻 Connect with Me
